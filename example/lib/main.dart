@@ -60,6 +60,8 @@ class HomePage extends StatelessWidget {
                     "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574939091914&di=a2323f20c47bd2c0aea41357f87813d3&imgtype=0&src=http%3A%2F%2Fe0.ifengimg.com%2F04%2F2018%2F1205%2FB56D39610FA63C93EFCCCCC41BD1306D88B1101C_size25_w600_h300.jpeg");
                 picUrls.add(
                     "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574939113686&di=f230ab42729bdd57c876c4bfa3e5f5fa&imgtype=0&src=http%3A%2F%2Fpicture01.52hrttpic.com%2Fimage%2FinfoImage%2F201903%2F18%2FG1552634874240.jpeg%3F640x427");
+                picUrls.add(
+                    "https://n.sinaimg.cn/tech/transform/760/w500h260/20191127/3794-iixntzz6766792.gif");
                 //导航到新路由
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                   return PictureViewMultPage(
