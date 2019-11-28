@@ -4,7 +4,7 @@ import 'package:photo_view/photo_view.dart';
 /**
  * ***********************************************
  * 包路径：example.lib
- * 类描述：
+ * 类描述：单图简单预览
  * 创建人：Liu Yinglong[PHONE：132****0095]
  * 创建时间：2019/11/28
  * 修改人：
